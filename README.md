@@ -1,6 +1,8 @@
 # 🧪 Laboratorio III – Patrones de Software y Programación
 
 Fecha de Entrega: **01/07/2025**
+Integrantes: Emily Volta Miranda 20.718.229-k
+             Martín Ubilla Briceño 20.751.624-4
 
 ## Objetivo
 
